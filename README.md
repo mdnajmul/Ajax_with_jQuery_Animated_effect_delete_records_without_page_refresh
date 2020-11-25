@@ -1,0 +1,1 @@
+# Ajax_with_jQuery_Animated_effect_delete_records_without_page_refresh
